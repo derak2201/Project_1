@@ -1,0 +1,4 @@
+Employee = input()
+print(Employee)
+Fee = int(input())
+print(Fee)
